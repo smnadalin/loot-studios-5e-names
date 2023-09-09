@@ -6,21 +6,21 @@ A Ghostly Odyssey,Georgios Minoulis,heroes,Human,Fighter,Medium,https://site.loo
 A Ghostly Odyssey,Harpy,enemies,Monstrosity,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2104AC11.png,Harpy,Monstrosity,Medium
 A Ghostly Odyssey,Hydra,enemies,Monstrosity,,Huge,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2104AC16.png,Hydra,Monstrosity,Huge
 A Ghostly Odyssey,Lamia,enemies,Monstrosity,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2104AC10.png,Lamia,Monstrosity,Large
-A Ghostly Odyssey,Lampad,enemies,Fey,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2104AC15.png,N/A,,
+A Ghostly Odyssey,Lampad,enemies,Fey,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2104AC15.png,Lampad,Fey,Medium
 A Ghostly Odyssey,"Lilli ""Oneshoe"" Nackle",heroes,Gnome,Artificer,Small,https://site.lootstudios.com/wp-content/uploads/2022/07/39.png,N/A,,
-A Ghostly Odyssey,Masked Undead,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2104AC09.png,N/A,,
+A Ghostly Odyssey,Masked Undead,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2104AC09.png,Returned Palamnite,Undead,Medium
 A Ghostly Odyssey,Medusa,enemies,Monstrosity,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2104AC08.png,Medusa,Monstrosity,Medium
 A Ghostly Odyssey,Minotaur,enemies,Monstrosity,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2104AC07.png,Minotaur,Monstrosity,Large
-A Ghostly Odyssey,Naiad,enemies,Fey,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2104AC14.png,N/A,,
+A Ghostly Odyssey,Naiad,enemies,Fey,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2104AC14.png,Naiad,Fey,Medium
 A Ghostly Odyssey,Olympus Rider,npcs,Human/Celestial,Fighter/Paladin,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2104AC22.png,Pegasus,Celestial,Large
-A Ghostly Odyssey,Oread,enemies,Fey,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2104AC13.png,N/A,,
+A Ghostly Odyssey,Oread,enemies,Fey,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2104AC13.png,Oread,Fey,Medium
 A Light in the Shadow,Bashir Khan,heroes,Human,Warlock,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2012AC03.png,N/A,,
 A Light in the Shadow,Bearded Devil,enemies,Fiend (Devil),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2012AC11.png,Bearded Devil,Fiend (Devil),Medium
 A Light in the Shadow,Blind Devil,enemies,Fiend (Devil),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2012AC09.png,Nupperibo,Fiend (Devil),Medium
 A Light in the Shadow,Chain Devil,enemies,Fiend (Devil),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2012AC13.png,Chain Devil,Fiend (Devil),Medium
 A Light in the Shadow,Erinyes,enemies,Fiend (Devil),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2012AC06.png,Erinyes,Fiend (Devil),Medium
 A Light in the Shadow,Gardain Firebeard,heroes,Dwarf,Paladin,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2012AC02.png,N/A,,
-A Light in the Shadow,Hell Counselor,enemies,Fiend (Devil),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2012AC14.png,N/A,,
+A Light in the Shadow,Hell Counselor,enemies,Fiend (Devil),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2012AC14.png,Amnizu,Fiend (Devil),Medium
 A Light in the Shadow,Hell Knight,enemies,Fiend (Devil),,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2012AC07.png,Death Knight,Undead,Medium
 A Light in the Shadow,Ice Devil,enemies,Fiend (Devil),,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2012AC08.png,Ice Devil,Fiend (Devil),Large
 A Light in the Shadow,Imp,enemies,Fiend (Devil),,Tiny,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2012AC12.png,Imp,"Fiend (Devil, Shapechanger)",Tiny
@@ -29,13 +29,13 @@ A Light in the Shadow,Nicolas Noel,other,Celestial,,Medium,https://site.lootstud
 A Light in the Shadow,Okesh the Proud,heroes,Elemental (Djinn),,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2012AC04.png,N/A,,
 A Light in the Shadow,Pit Fiend,enemies,Fiend (Devil),,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2012AC05.png,Pit Fiend,Fiend (Devil),Large
 A Light in the Shadow,Rulph,other,Beast,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2012AC21.png,N/A,,
-A Light in the Shadow,Solar Free,npcs,Celestial,,Large,https://site.lootstudios.com/wp-content/uploads/2022/07/36.png,N/A,,
-A Light in the Shadow,Solar Prisoner,npcs,Celestial,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2012AC19.png,N/A,,
+A Light in the Shadow,Solar Free,npcs,Celestial,,Large,https://site.lootstudios.com/wp-content/uploads/2022/07/36.png,Solar,Celestial,Large
+A Light in the Shadow,Solar Prisoner,npcs,Celestial,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2012AC19.png,Solar,Celestial,Large
 A Light in the Shadow,Spiked Devil,enemies,Fiend (Devil),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2012AC15.png,Barbed Devil,Fiend (Devil),Medium
 A Light in the Shadow,Vanchu Spinebreaker,heroes,Half-Orc,Barbarian/Fighter,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2012AC01.png,N/A,,
 A Mad Mage's Experiments,Chimera,enemies,Monstrosity,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2008AC06.png,Chimera,Monstrosity,Large
-A Mad Mage's Experiments,Choker 1,enemies,Aberration,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2008AC09.png,N/A,,
-A Mad Mage's Experiments,Choker 2,enemies,Aberration,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2008AC10.png,N/A,,
+A Mad Mage's Experiments,Choker 1,enemies,Aberration,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2008AC09.png,Choker,Aberration,Small
+A Mad Mage's Experiments,Choker 2,enemies,Aberration,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2008AC10.png,Choker,Aberration,Small
 A Mad Mage's Experiments,Chuul,enemies,Aberration,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2008AC08.png,Chuul,Aberration,Large
 A Mad Mage's Experiments,Cormah Shasan,heroes,Elf,Druid,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2008AC02.png,N/A,,
 A Mad Mage's Experiments,Cormah Shasan Bear Form,heroes,Beast,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2008AC04.png,Brown Bear,Beast,Large
@@ -76,23 +76,23 @@ Buried Tomb,Howler,enemies,Elemental,,Large,https://site.lootstudios.com/wp-cont
 Buried Tomb,"Jimmy Hollowhead, Eye Collector of Panshaw",other,,,,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2110AC28.png,N/A,,
 Buried Tomb,Merchant,npcs,Human,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2110AC23.png,N/A,,
 Buried Tomb,Mohrg,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2110AC11.png,N/A,,
-Buried Tomb,Monstrous Scorpion,enemies,Beast,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2110AC12.png,N/A,,
+Buried Tomb,Monstrous Scorpion,enemies,Beast,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2110AC12.png,Giant Scorpion,Beast,Large
 Buried Tomb,Mr. Snuggles,enemies,Undead,,Tiny,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2110AC13.png,N/A,,
 Buried Tomb,Mummy Lord,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2110AC14.png,Mummy Lord,Undead,Medium
-Buried Tomb,Royal Cat,enemies,Beast,,Tiny,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2110AC15.png,N/A,,
+Buried Tomb,Royal Cat,enemies,Beast,,Tiny,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2110AC15.png,Cat,Beast,Tiny
 Buried Tomb,Sand Golem,enemies,Construct,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2110AC16.png,N/A,,
 Buried Tomb,Sanjay the Shadow,heroes,Human,Rogue,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2110AC02.png,N/A,,
-Buried Tomb,Scarab Swarm,enemies,Beast,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2110AC17.png,N/A,,
+Buried Tomb,Scarab Swarm,enemies,Beast,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2110AC17.png,Swarm of Scarabs,Beast,Medium
 Buried Tomb,Skeletal Snake,enemies,Undead,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2110AC18.png,N/A,,
 Buried Tomb,Warrior Mummy,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2110AC19.png,N/A,,
 Buried Tomb,Werejackal,enemies,Werejackal,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2110AC20.png,N/A,,
 Buried Tomb,Werejackal Priest,enemies,Werejackal,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2110AC21.png,N/A,,
 City of Portals,Adorned Air Elemental,enemies,Elemental,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2205AC12.png,Air Elemental Myrmidon,Elemental,Medium
-City of Portals,Adorned Earth Elemental,enemies,Elemental,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2205AC10.png,N/A,,
+City of Portals,Adorned Earth Elemental,enemies,Elemental,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2205AC10.png,Earth Elemental,Elemental,Large
 City of Portals,Adorned Fire Elemental,enemies,Elemental,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2205AC11.png,Fire Elemental Myrmidon,Elemental,Medium
 City of Portals,Adorned Water Elemental,enemies,Elemental,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2205AC09.png,Water Elemental Myrmidon,Elemental,Medium
 City of Portals,Annah-of-the-Flames,heroes,Fireborn,Wizard,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2205AC13.png,N/A,,
-City of Portals,Grof Mortewielder,enemies,Aberration,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2205AC06.png,N/A,,
+City of Portals,Grof Mortewielder,enemies,Aberration,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2205AC06.png,Green Slaad,Aberration (Shapechanger),Large
 City of Portals,"Grooze, The Morphic Ooze",other,Ooze,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/SN2205AC01-1.png,N/A,,
 City of Portals,Kallista Everun,heroes,Tiefling,Rogue,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2205AC14.png,N/A,,
 City of Portals,Marut,enemies,Construct,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2205AC04.png,Marut,Construct (Inevitable),Large
@@ -102,7 +102,7 @@ City of Portals,Qydon,heroes,Astral Walker,Fighter/Warlock,Medium,https://site.l
 City of Portals,Rakshasa Hexafingers,enemies,Rakshasa/Catfolk,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2205AC01.png,N/A,,
 City of Portals,Rakuno the Manyhorned Devil,enemies,Fiend (Devil),,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2205AC03.png,N/A,,
 City of Portals,Succubus,enemies,Fiend (Demon or Devil),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2205AC05.png,Succubus,Fiend (Shapechanger),Medium
-City of Portals,Wereraven,enemies,Wereraven/Birdfolk,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2205AC02.png,N/A,,
+City of Portals,Wereraven,enemies,Wereraven/Birdfolk,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2205AC02.png,Wereraven,Humanoid,Medium
 Crusade of Darkness,"Abigail, Fell Champion",enemies,Humanoid (Ashen),Fighter,Medium,https://site.lootstudios.com/wp-content/uploads/2022/12/FN2212AC13.png,N/A,,
 Crusade Of Darkness,"Abigail, Fell Champion Mount",enemies,,,,https://site.lootstudios.com/wp-content/uploads/2022/12/FN2212AC24.png,N/A,,
 Crusade of Darkness,"Allastor, Black Sun",heroes,Human,Cleric,Medium,https://site.lootstudios.com/wp-content/uploads/2022/12/FN2212AC04.png,N/A,,
@@ -189,12 +189,12 @@ Expedition to the Underworld,Drow Warrior Female,enemies,Drow,,Medium,https://si
 Expedition to the Underworld,Drow Warrior Male,enemies,Drow,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2010AC12.png,Drow Elite Warrior,Humanoid (Elf),Medium
 Expedition to the Underworld,Gardain Firebeard,heroes,Dwarf,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2010AC02.png,N/A,,
 Expedition to the Underworld,Giant Spider,enemies,Beast,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2010AC07.png,Giant Spider,Beast,Large
-Expedition to the Underworld,Goldenhorn (Gardain's Companion),heroes,Beast,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2010AC05.png,N/A,,
+Expedition to the Underworld,Goldenhorn (Gardain's Companion),heroes,Beast,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2010AC05.png,Goat,Beast,Medium
 Expedition to the Underworld,"Iniha Yunvra, the Drow Queen",enemies,Drow,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2010AC06.png,Drow Matron Mother,"Humanoid (Cleric, Elf)",Medium
 Expedition to the Underworld,Shiza Gallar,heroes,Drow,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2010AC04.png,N/A,,
 Expedition to the Underworld,Vanchu Spinebreaker,heroes,Half-Orc,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2010AC01.png,N/A,,
 Eye of The Watcher,Armored Brain,enemies,Aberration,,Large,https://site.lootstudios.com/wp-content/uploads/2022/07/FN2208AC02.png,N/A,,
-Eye of The Watcher,Banned Cthulhufolk,enemies,Aberration/Cthulhufolk,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/07/FN2208AC03.png,N/A,,
+Eye of The Watcher,Banned Cthulhufolk,enemies,Aberration/Cthulhufolk,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/07/FN2208AC03.png,Mind Flayer,Aberration,Medium
 Eye of The Watcher,Brain Tyrant,enemies,Aberration,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/07/FN2208AC04.png,N/A,,
 Eye of The Watcher,Chitinous Watcher,enemies,Aberration,,Large,https://site.lootstudios.com/wp-content/uploads/2022/07/FN2208AC13.png,N/A,,
 Eye of The Watcher,Forgotten Adventurer,npcs,Humanoid,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/07/FN2208AC14.png,N/A,,
@@ -202,14 +202,14 @@ Eye of The Watcher,Hendrik Greenhilt,heroes,Half-Orc,Paladin,Medium,https://site
 Eye of The Watcher,Lamprey Watcher,enemies,Aberration,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/07/FN2208AC12.png,N/A,,
 Eye of The Watcher,Lidda Arrowtucker,heroes,Halfling,Ranger,Small,https://site.lootstudios.com/wp-content/uploads/2022/07/FN2208AC08.png,N/A,,
 Eye of The Watcher,Lidda Mount Scout Mount,heroes,Halfling/Beast,,,https://site.lootstudios.com/wp-content/uploads/2022/07/FN2208AC15.png,N/A,,
-Eye of The Watcher,Nothail,enemies,Aberration,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/07/FN2208AC05.png,N/A,,
+Eye of The Watcher,Nothail,enemies,Aberration,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/07/FN2208AC05.png,Nothic,Aberration,Medium
 Eye of The Watcher,"Scout, Giant Corgi",heroes,Beast,Companion,Medium,https://site.lootstudios.com/wp-content/uploads/2022/07/FN2208AC09.png,N/A,,
 Eye of The Watcher,Skeleton Watcher,enemies,Undead,,Large,https://site.lootstudios.com/wp-content/uploads/2022/07/FN2208AC11.png,N/A,,
 Eye of The Watcher,Slobbering Watcher,enemies,Aberration,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/07/FN2208AC10.png,Gazer,Aberration (Beholder),Tiny
 Eye of The Watcher,"Ziadtroks, Elder Watcher",enemies,,,Large,https://site.lootstudios.com/wp-content/uploads/2022/01/FN2208AC01.png,Beholder,Aberration,Large
 Eye of The Watcher,Zobbin Lightfiddle,heroes,Rabbitfolk,Bard,Medium,https://site.lootstudios.com/wp-content/uploads/2022/07/FN2208AC06.png,N/A,,
 Gathering in the Festering Swamp,Crocodile,,,,,,Crocodile,Beast,Large
-Gathering in the Festering Swamp,Festering Troll,enemies,(Giant) Troll,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2202AC14.png,N/A,,
+Gathering in the Festering Swamp,Festering Troll,enemies,(Giant) Troll,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2202AC14.png,Rot Troll,Giant,Large
 Gathering in the Festering Swamp,Froggy Spearman,enemies,Frogfolk,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2202AC10.png,N/A,,
 Gathering in the Festering Swamp,Froggy Warrior,enemies,Frogfolk,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2202AC09.png,N/A,,
 Gathering in the Festering Swamp,Funghy Bruiser,enemies,Plant,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2202AC07.png,N/A,,
@@ -249,22 +249,22 @@ Goblin Mines,"The ""Head Hunter""",heroes,Human,Fighter,Medium,https://site.loot
 Goblin Mines,Troll-Blooded Goblin,enemies,,,Huge,https://site.lootstudios.com/wp-content/uploads/2022/06/FN2207AC02.png,N/A,,
 Goblin Mines,Werebat Goblin,enemies,Humanoid,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/06/FN2207AC05.png,N/A,,
 Goblin Trouble,Barghest,enemies,Barghest,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2006AC01.png,Barghest,Fiend,Large
-Goblin Trouble,Bugbear brute,enemies,Bugbear,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2006AC02.png,N/A,,
+Goblin Trouble,Bugbear brute,enemies,Bugbear,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2006AC02.png,Bugbear,Humanoid (Goblinoid),Medium
 Goblin Trouble,Cormah Shasan,heroes,Elf,Druid,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2006AC09.png,N/A,,
 Goblin Trouble,Dog Rider,enemies,Goblin,,Small,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2006AC05.png,N/A,,
 Goblin Trouble,Goblin Lancer,enemies,Goblin,,Small,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2006AC06.png,N/A,,
 Goblin Trouble,Goblin Soldier,enemies,Goblin,,Small,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2006AC07.png,N/A,,
 Goblin Trouble,Goblin Swords,enemies,Goblin,,Small,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2006AC08.png,N/A,,
-Goblin Trouble,Hobgoblin 1,enemies,Goblin,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2006AC03.png,N/A,,
+Goblin Trouble,Hobgoblin 1,enemies,Goblin,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2006AC03.png,Hobgoblin,Humanoid (Goblinoid),Medium
 Goblin Trouble,Hobgoblin 2,enemies,Hobgoblin,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2006AC04.png,N/A,,
 Goblin Trouble,Jhonny Trinity,heroes,Human,Ranger/Rogue,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2006AC10.png,N/A,,
 Goblin Trouble,Sunathaer Caex,heroes,Dragonborn,Fighter/Paladin,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2006AC11.png,N/A,,
 Going Down the Drain,A7 Butler,npcs,,,,https://site.lootstudios.com/wp-content/uploads/2022/07/FN2011AC15.png,N/A,,
 Going Down the Drain,Aboleth,enemies,Aberration,,Huge,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2011AC04.png,Aboleth,Aberration,Large
 Going Down the Drain,Bashir Khan,heroes,Human,Warlock,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2011AC03.png,N/A,,
-Going Down the Drain,Darkray,enemies,Monstrosity,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2011AC14.png,N/A,,
+Going Down the Drain,Darkray,enemies,Monstrosity,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2011AC14.png,Cloaker,Aberration,Large
 Going Down the Drain,Female Merrow,enemies,Monstrosity,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2011AC13.png,N/A,,
-Going Down the Drain,Fishman 1,enemies,Fishman,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2011AC07.png,N/A,,
+Going Down the Drain,Fishman 1,enemies,Fishman,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2011AC07.png,Kuo-Toa,Humanoid (Kuo-Toa),Medium
 Going Down the Drain,Fishman 2,enemies,Fishman,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2011AC08.png,N/A,,
 Going Down the Drain,Fishman Archpriest,enemies,Fishman,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2011AC06.png,Kuo-Toa Archpriest,Humanoid (Kuo-Toa),Medium
 Going Down the Drain,Gardain Firebeard,heroes,Dwarf,Paladin,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2011AC02.png,N/A,,
@@ -310,7 +310,7 @@ It's A(nother) Trap!,Kobold Trapmaker,enemies,Kobold,,Medium,https://site.lootst
 It's A(nother) Trap!,Lizard Rider,enemies,Lizardfolk/Beast,,,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2107AC16.png,N/A,,
 It's A(nother) Trap!,Lizardfolk,enemies,Lizardfolk,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2107AC15.png,Lizardfolk,Humanoid (Lizardfolk),Medium
 It's A(nother) Trap!,"Mirsudirth, Champion of Volcanoes",heroes,Human,Sorcerer,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2107AC03.png,N/A,,
-It's A(nother) Trap!,Monitor Lizard,enemies,Beast,,,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2107AC17.png,N/A,,
+It's A(nother) Trap!,Monitor Lizard,enemies,Beast,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2107AC17.png,N/A,,
 It's A(nother) Trap!,Red Dragon Wyrmling,enemies,Red Dragon Wyrmling,,,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2107AC19.png,Red Dragon Wyrmling,Dragon (Chromatic),Medium
 It's A(nother) Trap!,Troglodyte,enemies,Troglodyte,,,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2107AC18.png,Troglodyte,Humanoid (Troglodyte),Medium
 Lair of Liars,Armored Dire Hound,enemies,Beast,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/12/FN2301AC08.png,N/A,,
@@ -365,9 +365,9 @@ Night Hunters,Roderick Vanherald,heroes,Human,Paladin,Medium,https://site.lootst
 Night Hunters,Roderick Vanherald Hybrid Form,heroes,Humanoid (Werewolf),Paladin,Medium,https://site.lootstudios.com/wp-content/uploads/2022/09/FN2210AC04.png,N/A,,
 Night Hunters,Transforming Werewolf,enemies,Humanoid (Werewolf),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/09/FN2210AC06.png,N/A,,
 Night Hunters,Vampiric Child,enemies,Undead,,Small,https://site.lootstudios.com/wp-content/uploads/2022/09/FN2210AC13.png,N/A,,
-Night Hunters,Werewolf,enemies,Humanoid (Werewolf),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/09/FN2210AC08.png,Werewolf,"Humanoid (Human, Shapechanger)",Medium
+Night Hunters,Werewolf,enemies,Humanoid (Werewolf),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/09/FN2210AC08.png,Werewolf,Humanoid,Medium
 Night Hunters,Werewolf Humanoid Form,enemies,Humanoid (Werewolf),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/09/FN2210AC16.png,N/A,,
-Night Hunters,Wild Werewolf,enemies,Humanoid (Werewolf),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/09/FN2210AC07.png,Werewolf,"Humanoid (Human, Shapechanger)",Medium
+Night Hunters,Wild Werewolf,enemies,Humanoid (Werewolf),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/09/FN2210AC07.png,Werewolf,Humanoid,Medium
 Nightmares of the Abyss,Abyssal Maw,enemies,Fiend (Demon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2206AC07.png,N/A,,
 Nightmares of the Abyss,Arthos the Conqueror,heroes,Humanoid,Oathbreaker Paladin,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2206AC13.png,N/A,,
 Nightmares of the Abyss,Bone Demon,enemies,Fiend (Demon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2206AC11.png,N/A,,
@@ -378,22 +378,22 @@ Nightmares of the Abyss,Glabrezu,enemies,Fiend (Demon),,Large,https://site.loots
 Nightmares of the Abyss,Hezrou,enemies,Fiend (Demon),,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2206AC04.png,Hezrou,Fiend (Demon),Large
 Nightmares of the Abyss,Kairon the Arcane,heroes,Tiefling,Wizard,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2206AC14.png,N/A,,
 Nightmares of the Abyss,Nalfeshnee,enemies,Fiend (Demon),,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2206AC10.png,Nalfeshnee,Fiend (Demon),Large
-Nightmares of the Abyss,"Od'Dracne, Demon Lord of Bones",enemies,Fiend (Demon),,Huge,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2206AC01.png,N/A,,
+Nightmares of the Abyss,"Od'Dracne, Demon Lord of Bones",enemies,Fiend (Demon),,Huge,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2206AC01.png,Orcus,Fiend (Demon),Huge
 Nightmares of the Abyss,Quasit,enemies,Fiend (Demon),,Tiny,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2206AC05.png,Quasit,"Fiend (Demon, Shapechanger)",Tiny
 Nightmares of the Abyss,Shadow Demon,enemies,Fiend (Demon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2206AC03.png,Shadow Demon,Fiend (Demon),Medium
-Nightmares of the Abyss,Vrock,enemies,Fiend (Demon),,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2206AC09.png,Vrock,Fiend (Demon),Large
+Nightmares of the Abyss,Vrock,enemies,Fiend (Demon),,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2206AC09.png,Vrock,Fiend,Large
 Nightmares of the Abyss,Zoe the Marauder,heroes,Human,Demon Slayer,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2206AC15.png,N/A,,
 Of Brains and Tentacles,Alberus Ribeirus,heroes,Human,Wizard,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2106AC01.png,N/A,,
-Of Brains and Tentacles,Brainy Dogs,enemies,Aberration,,Tiny,https://site.lootstudios.com/wp-content/uploads/2022/07/43.png,N/A,,
+Of Brains and Tentacles,Brainy Dogs,enemies,Aberration,,Tiny,https://site.lootstudios.com/wp-content/uploads/2022/07/43.png,Intellect Devourer,Aberration,Tiny
 Of Brains and Tentacles,Brawny Brain,enemies,Aberration,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2106AC06.png,N/A,,
-Of Brains and Tentacles,Chaos Magician,enemies,Aberration,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2106AC07.png,N/A,,
+Of Brains and Tentacles,Chaos Magician,enemies,Aberration,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2106AC07.png,Mind Flayer,Aberration,Medium
 Of Brains and Tentacles,Cthulhuean Roper,enemies,Aberration,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2106AC08.png,N/A,,
 Of Brains and Tentacles,Cthulhufolk,enemies,Aberration,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2106AC09.png,N/A,,
 Of Brains and Tentacles,Cthulhu's Chosen,enemies,Aberration,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2106AC10.png,Mind Flayer,Aberration,Medium
 Of Brains and Tentacles,Cthulhu's Mucus,enemies,Ooze,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/07/44.png,N/A,,
 Of Brains and Tentacles,Dracthulhu,enemies,Aberration,,Huge,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2106AC12.png,N/A,,
 Of Brains and Tentacles,Grimlock,enemies,Grimlock,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2106AC13.png,Grimlock,Humanoid (Grimlock),Medium
-Of Brains and Tentacles,Hivemind Mice,enemies,Aberration,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2106AC14.png,N/A,,
+Of Brains and Tentacles,Hivemind Mice,enemies,Aberration,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2106AC14.png,Swarm of Cranium Rats,Swarm Of Tiny Aberrations,Medium
 Of Brains and Tentacles,Lokdor,heroes,Half-Giant,Barbarian/Fighter,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2106AC02.png,N/A,,
 Of Brains and Tentacles,Mother Brain,enemies,Aberration,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2106AC15.png,Elder Brain,Aberration (Mind Flayer),Large
 Of Brains and Tentacles,Mucus Lady,enemies,,,,,N/A,,
@@ -417,7 +417,7 @@ Orconspiracy,Orgug Lots-of-Bolts,enemies,Orc,,Medium,https://site.lootstudios.co
 Orconspiracy,"Orguss, the Tall",enemies,Young Green Dragon,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2101AC15.png,N/A,,
 Orconspiracy,Orianna Phelaia,heroes,Tiefling,Sorcerer,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2101AC03.png,N/A,,
 Orconspiracy,Troll,enemies,(Giant) Troll,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2101AC13.png,Troll,Giant,Large
-Orconspiracy,Wereboar,enemies,Wereboar,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2101AC14.png,Wereboar,"Humanoid (Human, Shapechanger)",Medium
+Orconspiracy,Wereboar,enemies,Wereboar,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2101AC14.png,Wereboar,Humanoid,Medium
 Pact of Greed,Areli Sunmane,heroes,Catfolk,Humanoid,Medium,https://site.lootstudios.com/wp-content/uploads/2023/06/SUNMANE.png,N/A,,
 Pact of Greed,"Avaritium, Lord of Contracts",enemies,Demon or Devil,Fiend,Large,https://site.lootstudios.com/wp-content/uploads/2023/06/AVARITIUM.png,N/A,,
 Pact of Greed,Contract Holder,enemies,Demon or Devil,Fiend,Medium,https://site.lootstudios.com/wp-content/uploads/2023/06/HOLDER.png,N/A,,
@@ -436,9 +436,9 @@ Pact of Greed,Umbra Torment,enemies,Demon or Devil,Fiend,Medium,https://site.loo
 Pact of Greed,"Willem, Crazed Hunter",enemies,Human,Humanoid,Medium,https://site.lootstudios.com/wp-content/uploads/2023/06/FN2307AC10.png,N/A,,
 Panshaw Under Siege,Alka Myastan,heroes,Dragonkin,Rogue,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2112AC01.png,N/A,,
 Panshaw Under Siege,Arcane Half-Dragon,enemies,Half-Dragon,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2112AC11.png,N/A,,
-Panshaw Under Siege,Argenturam,gen_3,Adult Silver Dragon,,Huge,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2112AC16.png,N/A,,
+Panshaw Under Siege,Argenturam,gen_3,Adult Silver Dragon,,Huge,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2112AC16.png,Adult Silver Dragon,Dragon (Metallic),Huge
 Panshaw Under Siege,Armored Dragon Cultist,enemies,Human,Fighter/Paladin,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2112AC08.png,N/A,,
-Panshaw Under Siege,Ashgex,gen_3,Adult Red Dragon,,Huge,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2112AC15.png,N/A,,
+Panshaw Under Siege,Ashgex,gen_3,Adult Red Dragon,,Huge,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2112AC15.png,Adult Red Dragon,Dragon (Chromatic),Huge
 Panshaw Under Siege,Dragon Cult's Talon,enemies,Human,Rogue,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2112AC09.png,N/A,,
 Panshaw Under Siege,Dragon Cult's Wise One,enemies,Human,Wizard,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2112AC10.png,N/A,,
 Panshaw Under Siege,Green Aqua-Wyvern,enemies,Half-Dragon,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2112AC12.png,N/A,,
@@ -452,23 +452,23 @@ Panshaw Under Siege,Sir Richard Von Stugenberg (Mounted),heroes,,,,https://site.
 Panshaw Under Siege,Swamp Half-Dragon,enemies,Half-Dragon,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2112AC13.png,N/A,,
 Panshaw Under Siege,War Troll,enemies,(Giant) Troll,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2112AC14.png,N/A,,
 Planar Cruise,Amelia Fade,heroes,Human,Summoner,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC03.png,N/A,,
-Planar Cruise,Arcanadaemon,enemies,Fiend (Daemon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC13.png,N/A,,
+Planar Cruise,Arcanadaemon,enemies,Fiend (Daemon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC13.png,Arcanaloth,Fiend (Yugoloth),Medium
 Planar Cruise,Baltazar Laxmi,heroes,Aasimar,Cleric,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC01.png,N/A,,
-Planar Cruise,Canodaemon,enemies,Fiend (Daemon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC12.png,N/A,,
-Planar Cruise,Dhergodaemon,enemies,Fiend (Daemon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC10.png,N/A,,
-Planar Cruise,Hydrodaemon,enemies,Fiend (Daemon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC11.png,N/A,,
+Planar Cruise,Canodaemon,enemies,Fiend (Daemon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC12.png,Canoloth,Fiend (Yugoloth),Medium
+Planar Cruise,Dhergodaemon,enemies,Fiend (Daemon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC10.png,Dhergoloth,Fiend (Yugoloth),Medium
+Planar Cruise,Hydrodaemon,enemies,Fiend (Daemon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC11.png,Hydroloth,Fiend (Yugoloth),Medium
 Planar Cruise,Lasher,enemies,Fiend (Daemon),,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC09.png,N/A,,
-Planar Cruise,Mezzodaemon,enemies,Fiend (Daemon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC06.png,N/A,,
-Planar Cruise,Nycadaemon,enemies,Fiend (Daemon),,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC05.png,N/A,,
-Planar Cruise,Plaguedaemon,enemies,Fiend (Daemon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC14.png,N/A,,
-Planar Cruise,Psicodaemon,enemies,Fiend (Daemon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC08.png,N/A,,
+Planar Cruise,Mezzodaemon,enemies,Fiend (Daemon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC06.png,Mezzoloth,Fiend (Yugoloth),Medium
+Planar Cruise,Nycadaemon,enemies,Fiend (Daemon),,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC05.png,Nycaloth,Fiend (Yugoloth),Large
+Planar Cruise,Plaguedaemon,enemies,Fiend (Daemon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC14.png,Oinoloth,Fiend (Yugoloth),Medium
+Planar Cruise,Piscodaemon,enemies,Fiend (Daemon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC08.png,N/A,,
 Planar Cruise,Quetzalcoalt (Amelia's Eidolon),heroes,Celestial,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC04.png,N/A,,
 Planar Cruise,Rogdal Onyx,heroes,Earthborn,Barbarian,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC02.png,N/A,,
 Planar Cruise,Styx Ferryman,npcs,Fiend (Daemon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC16.png,N/A,,
 Planar Cruise,Styx Ferryman  Vignette,npcs,Fiend (Daemon),,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC17.png,N/A,,
-Planar Cruise,UltroDaemon,enemies,Fiend (Daemon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC15.png,N/A,,
+Planar Cruise,UltroDaemon,enemies,Fiend (Daemon),,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC15.png,Ultroloth,Fiend,Medium
 Planar Cruise,Walking Tower,,,,,,N/A,,
-Planar Cruise,Yagnodaemon,enemies,Fiend (Daemon),,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC07.png,N/A,,
+Planar Cruise,Yagnodaemon,enemies,Fiend (Daemon),,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2105AC07.png,Yagnoloth,Fiend,Large
 Roar of the Everdeath,"Barator, Lich General",enemies,Undead,,Large,https://site.lootstudios.com/wp-content/uploads/2023/06/Spoilers-pintados-Everdeath-2-scaled.jpg,N/A,,
 Roar of the Everdeath,"Donaar Caex, Sun Monk",heroes,Dragonborn,Monk,Medium,https://site.lootstudios.com/wp-content/uploads/2023/06/Spoilers-pintados-Everdeath-9-scaled.jpg,N/A,,
 Roar of the Everdeath,Ettin Zombie,enemies,Undead,,Large,https://site.lootstudios.com/wp-content/uploads/2023/06/Spoilers-pintados-Everdeath-8-scaled.jpg,N/A,,
@@ -500,27 +500,27 @@ Ship Ahoy!,Pirate Scout,heroes,Human,,Medium,https://site.lootstudios.com/wp-con
 Ship Ahoy!,Sahuagin Pirate,enemies,Sahuagin,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2203AC11.png,N/A,,
 Ship Ahoy!,Sharkman,enemies,Sahuagin,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2203AC12.png,N/A,,
 Ship Ahoy!,Skeleton Pirate,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2203AC13.png,N/A,,
-Ship Ahoy!,"Turill, the Wandering Island",gen_1,Young Dragon Turtle,,Huge,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2203AC18.png,N/A,,
+Ship Ahoy!,"Turill, the Wandering Island",gen_1,Young Dragon Turtle,,Huge,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2203AC18.png,Young Dragon Turtle,Dragon,Huge
 Ship Ahoy!,Zombie Pirate,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2203AC14.png,N/A,,
 Snowy Mountain Summit,Barbarian Skeleton,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC06.png,N/A,,
 Snowy Mountain Summit,Bearguin,enemies,Monstrosity,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC07.png,N/A,,
 Snowy Mountain Summit,Druid Familiar - Fungi,heroes,Plant,,Tiny,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC05.png,N/A,,
 Snowy Mountain Summit,Dwarven Enchanted Blacksmith,npcs,Dwarf,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC21.png,N/A,,
-Snowy Mountain Summit,Frost Duergar,enemies,Duergar,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC08.png,N/A,,
+Snowy Mountain Summit,Frost Duergar,enemies,Duergar,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC08.png,Duergar,Humanoid (Dwarf),Medium
 Snowy Mountain Summit,Ice Golem,enemies,Construct,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC09.png,N/A,,
-Snowy Mountain Summit,Ice Troll,enemies,(Giant) Troll,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC10.png,N/A,,
+Snowy Mountain Summit,Ice Troll,enemies,(Giant) Troll,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC10.png,Ice Troll,Giant,Large
 Snowy Mountain Summit,Levisteus Caniatus,heroes,Tiefling,Sorcerer,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC01.png,N/A,,
 Snowy Mountain Summit,Remorhaz,enemies,Monstrosity,,Huge,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC11.png,Remorhaz,Monstrosity,Huge
 Snowy Mountain Summit,Rhal Bearslayer,heroes,Human,Barbarian,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC03.png,N/A,,
-Snowy Mountain Summit,Sabertooth,enemies,Beast,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC12.png,N/A,,
+Snowy Mountain Summit,Sabertooth,enemies,Beast,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC12.png,Saber-toothed Tiger,Beast,Large
 Snowy Mountain Summit,Skeleton Mage,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC13.png,N/A,,
 Snowy Mountain Summit,Snowman,,,,,,N/A,,
-Snowy Mountain Summit,Sorcerer Familiar - Weasel,heroes,Beast,,Tiny,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC04.png,N/A,,
+Snowy Mountain Summit,Sorcerer Familiar - Weasel,heroes,Beast,,Tiny,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC04.png,Weasel,Beast,Tiny
 Snowy Mountain Summit,Sword and Board Skeleton,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC14.png,N/A,,
 Snowy Mountain Summit,Taes of the Frozen Tundra,heroes,Human,Druid,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC02.png,N/A,,
 Snowy Mountain Summit,Walrusfolk Harpooner,enemies,Walrusfolk,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC15.png,N/A,,
 Snowy Mountain Summit,Wendigo,enemies,Fey,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC16.png,N/A,,
-Snowy Mountain Summit,Werebear,enemies,Werebear,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC17.png,Werebear,"Humanoid (Human, Shapechanger)",Medium
+Snowy Mountain Summit,Werebear,enemies,Werebear,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC17.png,Werebear,Humanoid,Medium
 Snowy Mountain Summit,Werebeast,enemies,Monstrosity,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC18.png,N/A,,
 Snowy Mountain Summit,Yeti,enemies,Monstrosity,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC19.png,Yeti,Monstrosity,Large
 Snowy Mountain Summit,Young Bearguin,enemies,Monstrosity,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2111AC20.png,N/A,,
@@ -535,11 +535,11 @@ Stinky Ancient Ruins,Enrico - Dinosaur Form,heroes,Beast,,Medium,https://site.lo
 Stinky Ancient Ruins,Enrico the Plum-Druid,heroes,Human,Druid,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2109AC02.png,N/A,,
 Stinky Ancient Ruins,Otyugh,enemies,Aberration,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2109AC10.png,Otyugh,Aberration,Large
 Stinky Ancient Ruins,Piper Spirit,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2109AC11.png,N/A,,
-Stinky Ancient Ruins,Rat Swarm,enemies,Beast,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2109AC12.png,N/A,,
+Stinky Ancient Ruins,Rat Swarm,enemies,Beast,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2109AC12.png,Swarm of Rats,Swarm Of Tiny Beasts,Medium
 Stinky Ancient Ruins,Rust Monster,enemies,Monstrosity,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2109AC13.png,Rust Monster,Monstrosity,Medium
 Stinky Ancient Ruins,Sewer Cleaner,enemies,Construct,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2109AC14.png,N/A,,
 Stinky Ancient Ruins,Well-Fed Gelatinous Cube,enemies,Ooze,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2109AC15.png,Gelatinous Cube,Ooze,Large
-Stinky Ancient Ruins,Wererat,enemies,Wererat,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2109AC16.png,Wererat,"Humanoid (Human, Shapechanger)",Medium
+Stinky Ancient Ruins,Wererat,enemies,Wererat,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2109AC16.png,Wererat,Humanoid,Medium
 Stinky Ancient Ruins,Yongrud Dimtank,heroes,Dwarf,Fighter,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2109AC04.png,N/A,,
 Tales of Ryuboken,"Bushido Master, Kame",heroes,Turtlefolk,Samurai,Medium,https://site.lootstudios.com/wp-content/uploads/2023/04/FN2305AC10.png,N/A,,
 Tales of Ryuboken,Disguised Akamata,enemies,Monstrosity,Bard,Medium,https://site.lootstudios.com/wp-content/uploads/2023/04/FN2305AC12.png,N/A,,
@@ -643,17 +643,17 @@ Toll Collectors,Ratfolk Swashbuckler,enemies,Ratfolk,Rogue,Small,https://site.lo
 Vampires in Panshaw,Black Wolf,enemies,Beast,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC08.png,Wolf,Beast,Medium
 Vampires in Panshaw,Cordelia,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC15.png,N/A,,
 Vampires in Panshaw,Cormah Shasan,heroes,Elf,Druid,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC01.png,N/A,,
-Vampires in Panshaw,Cormah Shasan Wolf Form,heroes,Beast,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC04.png,N/A,,
+Vampires in Panshaw,Cormah Shasan Wolf Form,heroes,Beast,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC04.png,Wolf,Beast,Medium
 Vampires in Panshaw,Count Zegrath,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC05.png,Strahd von Zarovich,Undead (Shapechanger),Medium
-Vampires in Panshaw,Dire Bat,enemies,Beast,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC17.png,N/A,,
-Vampires in Panshaw,Gargoyle 1,enemies,Elemental,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC06.png,N/A,,
-Vampires in Panshaw,Gargoyle 2,enemies,Elemental,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC07.png,N/A,,
+Vampires in Panshaw,Dire Bat,enemies,Beast,,Large,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC17.png,Giant Bat,Beast,Large
+Vampires in Panshaw,Gargoyle 1,enemies,Elemental,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC06.png,Gargoyle,Elemental,Medium
+Vampires in Panshaw,Gargoyle 2,enemies,Elemental,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC07.png,Gargoyle,Elemental,Medium
 Vampires in Panshaw,Grimbald,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC16.png,N/A,,
 Vampires in Panshaw,Jhonny Trinity,heroes,Human,Ranger/Rogue,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC03.png,N/A,,
-Vampires in Panshaw,Shadow 1,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC09.png,N/A,,
+Vampires in Panshaw,Shadow 1,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC09.png,Shadow,Undead,Medium
 Vampires in Panshaw,Shadow 2,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC10.png,N/A,,
 Vampires in Panshaw,Sunathaer Caex,heroes,Dragonborn,Fighter/Paladin,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC02.png,N/A,,
-Vampires in Panshaw,Vampire Spawn 1,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC11.png,N/A,,
+Vampires in Panshaw,Vampire Spawn 1,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC11.png,Vampire Spawn,Undead,Medium
 Vampires in Panshaw,Vampire Spawn 2,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC12.png,N/A,,
 Vampires in Panshaw,Vampire Spawn 3,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC13.png,N/A,,
 Vampires in Panshaw,Vampire Spawn 4,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2009AC14.png,N/A,,
@@ -709,12 +709,12 @@ Wightpocalypse,Big Zombie,enemies,Undead,,Medium,https://site.lootstudios.com/wp
 Wightpocalypse,Bugbear Zombie,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2007AC06.png,N/A,,
 Wightpocalypse,Cleaver Zombie,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2007AC07.png,N/A,,
 Wightpocalypse,Cormah Shasan,heroes,Elf,Druid,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2007AC02.png,N/A,,
-Wightpocalypse,Ghoul 1,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2007AC08.png,N/A,,
+Wightpocalypse,Ghoul 1,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2007AC08.png,Ghoul,Undead,Medium
 Wightpocalypse,Ghoul 2,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2007AC09.png,N/A,,
 Wightpocalypse,Jhonny Trinity,heroes,Human,Ranger/Rogue,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2007AC01.png,N/A,,
 Wightpocalypse,Skeleton Archer,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2007AC10.png,N/A,,
 Wightpocalypse,Skeleton Executioner,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2007AC11.png,N/A,,
-Wightpocalypse,Skeleton Goblin 1,enemies,Undead,,Small,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2007AC12.png,N/A,,
+Wightpocalypse,Skeleton Goblin 1,enemies,Undead,,Small,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2007AC12.png,Skeleton,Undead,Medium
 Wightpocalypse,Skeleton Goblin 2,enemies,Undead,,Small,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2007AC13.png,N/A,,
 Wightpocalypse,Skeleton Warrior,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2007AC14.png,N/A,,
 Wightpocalypse,Skeleton Wolf,enemies,Undead,,Medium,https://site.lootstudios.com/wp-content/uploads/2022/05/FN2007AC15.png,N/A,,
