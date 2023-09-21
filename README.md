@@ -4,6 +4,7 @@ This list maps the Loot Studios miniatures to their respective 5e names so you c
 
 ### Progress
 
+-22/09/23: 60% matched
 -13/09/23: 43% matched
 
 ### Contribute
