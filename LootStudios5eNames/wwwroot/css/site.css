@@ -1,0 +1,31 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+th {
+    width: 10%;
+}
+
+td {
+    width: 10%;
+}
+
+.headerTable {
+    margin-bottom: 0px;
+}
+

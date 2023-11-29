@@ -1,0 +1,179 @@
+﻿@model IEnumerable<LootStudios5eNames.Models.Miniature>
+
+@{
+    ViewData["Title"] = "Test";
+    int totalPages = ViewData["TotalPages"] as int? ?? 1;
+    int currentPage = ViewData["CurrentPage"] as int? ?? 1;
+}
+
+<table class="table headerTable">
+    <thead>
+        <tr>
+            <th>
+               <a asp-action="Index" asp-route-sortOrder="@ViewData["LS_PackSortParm"]">
+                LS_Pack
+                </a>
+            </th>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["LS_NameSortParm"]">
+                LS_Name
+                 </a>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LS_Role)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LS_Race)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LS_Class)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LS_Size)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LS_Image)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model._5e_Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model._5e_Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model._5e_Size)
+            </th>
+        </tr>
+    </thead>
+    </table>
+    <table class="table">
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LS_Pack)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LS_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LS_Role)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LS_Race)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LS_Class)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LS_Size)
+            </td>
+            <td>
+                <div style="width: 100px; height: 100px; overflow: hidden;">
+                    <img src="@item.LS_Image" alt="@item.LS_Name" width="100" height="100" />
+                    </div>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item._5e_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item._5e_Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item._5e_Size)
+            </td>
+
+        </tr>
+}
+    </tbody>
+</table>
+
+
+
+<!-- Your existing HTML code -->
+
+<div class="pagination">
+    @if (Model.Any())
+    {
+        int displayRange = 8; // Set the number of pages to display around the current page
+        <ul class="pagination">
+
+            <li class="page-item @(currentPage == 1 ? "disabled": "")">
+            <a class="page-link" asp-action="Index" asp-route-page="@(currentPage - 1)" asp-route-pageSize="10" asp-route-sortOrder="@ViewData["CurrentSort"]">
+                Previous
+            </a>
+            </li>
+
+            @if (currentPage < 6)
+            {
+                for (var i = 1; i <= 9; i++)
+                {
+                    <li class="page-item  @(i == currentPage ? "active" : "")">
+                        <a class="page-link" asp-action="Index" asp-route-page="@i" asp-route-pageSize="10" asp-route-sortOrder="@ViewData["CurrentSort"]">
+                            @i
+                        </a>
+                    </li>
+                }
+                <li class="page-item">
+                    <a class="page-link disabled">...</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" asp-action="Index" asp-route-page="@totalPages" asp-route-pageSize="10" asp-route-sortOrder="@ViewData["CurrentSort"]">
+                        @totalPages
+                    </a>
+                </li>
+            
+            } else if (currentPage > totalPages - 5)
+            {
+                <li class="page-item">
+                    <a class="page-link" asp-action="Index" asp-route-page="1" asp-route-pageSize="10" asp-route-sortOrder="@ViewData["CurrentSort"]">
+                        1
+                    </a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link disabled">...</a>
+                </li>
+                @for (var i = totalPages - 9; i <= totalPages; i++)
+                {
+                    <li class="page-item  @(i == currentPage ? "active" : "")">
+                        <a class="page-link" asp-action="Index" asp-route-page="@i" asp-route-pageSize="10" asp-route-sortOrder="@ViewData["CurrentSort"]">
+                            @i
+                        </a>
+                    </li>
+                }
+            } else
+            {
+                <li class="page-item">
+                    <a class="page-link" asp-action="Index" asp-route-page="1" asp-route-pageSize="10" asp-route-sortOrder="@ViewData["CurrentSort"]">
+                        1
+                    </a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link disabled">...</a>
+                </li>
+                @for (var i = Math.Max(1, currentPage - displayRange / 2); i <= Math.Min(totalPages, currentPage + displayRange / 2); i++)
+                {
+                    <li class="page-item  @(i == currentPage ? "active" : "")">
+                        <a class="page-link" asp-action="Index" asp-route-page="@i" asp-route-pageSize="10" asp-route-sortOrder="@ViewData["CurrentSort"]">
+                            @i
+                        </a>
+                    </li>
+                }
+                 <li class="page-item">
+                    <a class="page-link disabled">...</a>
+                </li>
+                <li class="page-item">
+                    <a class="page-link" asp-action="Index" asp-route-page="@totalPages" asp-route-pageSize="10" asp-route-sortOrder="@ViewData["CurrentSort"]">
+                        @totalPages
+                    </a>
+                </li>
+            }
+            <li class="page-item">
+                <a class="page-link" asp-action="Index" asp-route-page="@(currentPage + 1)" asp-route-pageSize="10" asp-route-sortOrder="@ViewData["CurrentSort"]">
+                    Next
+                </a>
+            </li>
+
+        </ul>
+    }
+</div>
