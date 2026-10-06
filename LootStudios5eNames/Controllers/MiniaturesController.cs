@@ -23,15 +23,33 @@ namespace LootStudios5eNames.Controllers
         }
 
         // GET: Miniatures
-        public async Task<IActionResult> Index(int? page, string sortOrder)
+        public async Task<IActionResult> Index(int? page, string sortOrder, string filter)
         {
             int pageSize = 6; // Set your desired page size here
             int pageNumber = page ?? 1;
+            if (sortOrder == null)
+            {
+                sortOrder = "LS_Pack";
+            }
             ViewData["CurrentSort"] = sortOrder;
-            ViewData["LS_PackSortParm"] = String.IsNullOrEmpty(sortOrder) ? "-LS_Pack" : "";
-            ViewData["LS_NameSortParm"] = sortOrder == "LS_Name" ? "-LS_Name" : "LS_Name";
+            ViewData["CurrentFilter"] = filter;
+
+            ViewData["LS_PackSortParam"] = sortOrder == "LS_Pack" ? "-LS_Pack" : "LS_Pack";
+            ViewData["LS_NameSortParam"] = sortOrder == "LS_Name" ? "-LS_Name" : "LS_Name";
+            ViewData["RoleSortParam"] = sortOrder == "Role" ? "-Role" : "Role";
+            ViewData["RaceSortParam"] = sortOrder == "Race" ? "-Race" : "Race";
+            ViewData["ClassSortParam"] = sortOrder == "Class" ? "-Class" : "Class";
+            ViewData["SizeSortParam"] = sortOrder == "Size" ? "-Size" : "Size";
+            ViewData["5e_NameSortParam"] = sortOrder == "5e_Name" ? "-5e_Name" : "5e_Name";
+            ViewData["5e_TypeSortParam"] = sortOrder == "5e_Type" ? "-5e_Type" : "5e_Type";
+            ViewData["5e_SizeSortParam"] = sortOrder == "5e_Size" ? "-5e_Size" : "5e_Size";
 
             var miniatures = _context.Miniature.Select(m => m);
+
+            if (!string.IsNullOrEmpty(filter))
+            {
+                miniatures = miniatures.Where(m => m.LS_Name.Contains(filter) || m.LS_Race.Contains(filter) || m.LS_Class.Contains(filter) || m._5e_Name.Contains(filter) || m._5e_Type.Contains(filter));
+            }
 
             switch (sortOrder)
             {
@@ -44,6 +62,48 @@ namespace LootStudios5eNames.Controllers
                 case "-LS_Name":
                     miniatures = miniatures.OrderByDescending(m => m.LS_Name);
                     break;
+                case "Role":
+                    miniatures = miniatures.OrderBy(m => m.LS_Role);
+                    break;
+                case "-Role":
+                    miniatures = miniatures.OrderByDescending(m => m.LS_Role);
+                    break;
+                case "Race":
+                    miniatures = miniatures.OrderBy(m => m.LS_Race);
+                    break;
+                case "-Race":
+                    miniatures = miniatures.OrderByDescending(m => m.LS_Race);
+                    break;
+                case "Class":
+                    miniatures = miniatures.OrderBy(m => m.LS_Class);
+                    break;
+                case "-Class":
+                    miniatures = miniatures.OrderByDescending(m => m.LS_Class);
+                    break;
+                case "Size":
+                    miniatures = miniatures.OrderBy(m => m.LS_Size);
+                    break;
+                case "-Size":
+                    miniatures = miniatures.OrderByDescending(m => m.LS_Size);
+                    break;
+                case "5e_Name":
+                    miniatures = miniatures.OrderBy(m => m._5e_Name);
+                    break;
+                case "-5e_Name":
+                    miniatures = miniatures.OrderByDescending(m => m._5e_Name);
+                    break;
+                case "5e_Type":
+                    miniatures = miniatures.OrderBy(m => m._5e_Type);
+                    break;
+                case "-5e_Type":
+                    miniatures = miniatures.OrderByDescending(m => m._5e_Type);
+                    break;
+                case "5e_Size":
+                    miniatures = miniatures.OrderBy(m => m._5e_Size);
+                    break;
+                case "-5e_Size":
+                    miniatures = miniatures.OrderByDescending(m => m._5e_Size);
+                    break;
                 default:
                     miniatures = miniatures.OrderBy(m => m.LS_Pack);
                     break;
@@ -54,7 +114,7 @@ namespace LootStudios5eNames.Controllers
                 .Take(pageSize)
                 .ToListAsync();
 
-            int totalItems = await _context.Miniature.CountAsync();
+            int totalItems = await miniatures.CountAsync();
             int totalPages = (int)Math.Ceiling((double)totalItems / pageSize);
 
             ViewData["TotalPages"] = totalPages;
@@ -64,10 +124,11 @@ namespace LootStudios5eNames.Controllers
         }
 
 
-        [HttpGet]
+        /*[HttpGet]
         public ActionResult LoadDataFromExcel()
         {
             string filePath = Path.Combine(Environment.CurrentDirectory,"wwwroot", "App_Data", "loot-studios-5e-names.xlsx");
+            DeleteExistingData();
             var data = ReadDataFromExcel(filePath);
             InsertDataIntoSqlServer(data);
 
@@ -125,12 +186,20 @@ namespace LootStudios5eNames.Controllers
 
         private void InsertDataIntoSqlServer(List<Miniature> data)
         {
-            using (var context = _context)
-            {
-                // Insert data into SQL Server
-                context.Miniature.AddRange(data);
-                context.SaveChanges();
-            }
+            // Insert data into SQL Server
+            _context.Miniature.AddRange(data);
+            _context.SaveChanges();
+
         }
+
+        private void DeleteExistingData()
+        {
+
+            // Delete all records from the Miniature table
+            _context.Miniature.RemoveRange(_context.Miniature);
+            _context.SaveChanges();
+
+        }
+    }*/
     }
 }

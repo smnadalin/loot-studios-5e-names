@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BMVPV5oOsST5JQ/Xlob+SzUEutOr9y9A8PndQI6enUo=",
+  "Hash": "f6cRhC8ZPKD0hfO+FBCHaapXPvVkrnGj6Jhs3ws2fAs=",
   "Source": "LootStudios5eNames",
   "BasePath": "_content/LootStudios5eNames",
   "Mode": "Default",
@@ -51,12 +51,12 @@
       "OriginalItemSpec": "C:\\Users\\smnad\\code\\loot-studios-5e-names\\LootStudios5eNames\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LootStudios5eNames.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\smnad\\code\\loot-studios-5e-names\\LootStudios5eNames\\wwwroot\\App_Data\\loot-studios-5e-names.csv",
+      "Identity": "C:\\Users\\smnad\\code\\loot-studios-5e-names\\LootStudios5eNames\\wwwroot\\App_Data\\loot-studios-5e-names.xlsb",
       "SourceId": "LootStudios5eNames",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\smnad\\code\\loot-studios-5e-names\\LootStudios5eNames\\wwwroot\\",
       "BasePath": "_content/LootStudios5eNames",
-      "RelativePath": "App_Data/loot-studios-5e-names.csv",
+      "RelativePath": "App_Data/loot-studios-5e-names.xlsb",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,7 +65,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\App_Data\\loot-studios-5e-names.csv"
+      "OriginalItemSpec": "wwwroot\\App_Data\\loot-studios-5e-names.xlsb"
     },
     {
       "Identity": "C:\\Users\\smnad\\code\\loot-studios-5e-names\\LootStudios5eNames\\wwwroot\\App_Data\\loot-studios-5e-names.xlsx",

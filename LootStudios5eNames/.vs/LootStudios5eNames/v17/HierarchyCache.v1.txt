@@ -3,19 +3,15 @@ i:{00000000-0000-0000-0000-000000000000}:LootStudios5eNames.sln
 ++LootStudios5eNames
 i:{00000000-0000-0000-0000-000000000000}:LootStudios5eNames
 ++Connected Services 
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:>955
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:>1645
 ++Dependencies
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:>954
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:>1644
 ++Properties
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\properties\
 ++wwwroot
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\wwwroot\
 ++App_Data
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\wwwroot\app_data\
-++loot-studios-5e-names.csv
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\wwwroot\app_data\loot-studios-5e-names.csv
-++loot-studios-5e-names.xlsx
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\wwwroot\app_data\loot-studios-5e-names.xlsx
 ++css
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\wwwroot\css\
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\wwwroot\lib\bootstrap\dist\css\
@@ -94,8 +90,6 @@ i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-nam
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 ++bootstrap-utilities.rtl.min.css
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
-++bootstrap-utilities.rtl.min.css.map
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
 ++LICENSE
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\wwwroot\lib\bootstrap\license
 ++jquery
@@ -108,12 +102,10 @@ i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-nam
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\wwwroot\favicon.ico
 ++Controllers
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\controllers\
-++HomeController.cs
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\controllers\homecontroller.cs
-++MiniaturesController.cs
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\controllers\miniaturescontroller.cs
 ++Data
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\data\
+++LootStudios5eNamesContext.cs
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\data\lootstudios5enamescontext.cs
 ++Migrations
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\migrations\
 ++20231030123917_InitialCreate.cs
@@ -130,11 +122,6 @@ i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-nam
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\views\
 ++Home
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\views\home\
-++Index.cshtml
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\views\home\index.cshtml
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\views\miniatures\index.cshtml
-++Privacy.cshtml
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\views\home\privacy.cshtml
 ++Miniatures
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\views\miniatures\
 ++Shared
@@ -156,7 +143,7 @@ i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-nam
 ++Program.cs
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\program.cs
 ++SQL Server Express LocalDB (Local) (ConnectionStrings:LootStudios5eNamesContext)
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:>987
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:>1678
 ++Analyzers
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:analyzers
 ++Frameworks
@@ -167,8 +154,14 @@ i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:packages
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\properties\launchsettings.json
 ++serviceDependencies.json
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\properties\servicedependencies.json
+++loot-studios-5e-names.xlsb
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\wwwroot\app_data\loot-studios-5e-names.xlsb
+++loot-studios-5e-names.xlsx
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\wwwroot\app_data\loot-studios-5e-names.xlsx
 ++site.js
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\wwwroot\js\site.js
+++bootstrap-utilities.rtl.min.css.map
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
 ++bootstrap.js
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\wwwroot\lib\bootstrap\dist\js\bootstrap.js
 ++LICENSE.txt
@@ -178,58 +171,65 @@ i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-nam
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\wwwroot\lib\jquery-validation\license.md
 ++jquery.validate.unobtrusive.js
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
-++LootStudios5eNamesContext.cs
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\data\lootstudios5enamescontext.cs
+++HomeController.cs
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\controllers\homecontroller.cs
+++MiniaturesController.cs
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\controllers\miniaturescontroller.cs
 ++20231030123917_InitialCreate.Designer.cs
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\migrations\20231030123917_initialcreate.designer.cs
+++Index.cshtml
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\views\home\index.cshtml
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\views\miniatures\index.cshtml
+++Privacy.cshtml
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\views\home\privacy.cshtml
 ++appsettings.Development.json
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\appsettings.development.json
 ++MessagePackAnalyzer
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
 ++Microsoft.AspNetCore.Analyzers
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\sdk\6.0.125\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\sdk\6.0.136\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
 ++Microsoft.AspNetCore.App.Analyzers
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.25\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.36\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
 ++Microsoft.AspNetCore.App.CodeFixes
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.25\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.36\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
 ++Microsoft.AspNetCore.Components.Analyzers
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\sdk\6.0.125\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\sdk\6.0.136\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
 ++Microsoft.AspNetCore.Mvc.Analyzers
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\sdk\6.0.125\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\sdk\6.0.136\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
 ++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\sdk\6.0.125\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\sdk\6.0.136\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
 ++Microsoft.CodeAnalysis.Analyzers
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
 ++Microsoft.CodeAnalysis.CSharp.Analyzers
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
 ++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\sdk\6.0.125\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\sdk\6.0.136\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
 ++Microsoft.CodeAnalysis.NetAnalyzers
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\sdk\6.0.125\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\sdk\6.0.136\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
 ++Microsoft.EntityFrameworkCore.Analyzers
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.23\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
 ++Microsoft.Extensions.Logging.Generators
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.25\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.36\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
 ++Microsoft.NET.Sdk.Razor.SourceGenerators
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\sdk\6.0.125\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\sdk\6.0.136\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
 ++System.Text.Json.SourceGeneration
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.25\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.36\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
 ++Microsoft.AspNetCore.App
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\microsoft.aspnetcore.app
 ++Microsoft.NETCore.App
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\microsoft.netcore.app
 ++EPPlus (7.0.0)
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:>969
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:>1659
 ++Microsoft.EntityFrameworkCore.SqlServer (6.0.23)
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:>967
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:>1657
 ++Microsoft.EntityFrameworkCore.Tools (6.0.23)
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:>970
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:>1660
 ++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.16)
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:>971
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:>1661
 ++PagedList.Mvc (4.5.0)
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:>988
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:>1662
 ++Swashbuckle.AspNetCore (6.5.0)
-i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:>968
+i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:>1658
 ++serviceDependencies.local.json
 i:{f7cc6def-ee5d-4b42-a97c-29e062e52066}:c:\users\smnad\code\loot-studios-5e-names\lootstudios5enames\properties\servicedependencies.local.json
 ++bootstrap.bundle.js
